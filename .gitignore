@@ -1,0 +1,11 @@
+
+
+# Dependencies
+/manu-api/node_modules
+/manu-react/node_modules
+
+/manu-api/.history
+/manu-react/.history
+
+
+/manu-api/.history
